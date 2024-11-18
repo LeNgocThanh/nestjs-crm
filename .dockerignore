@@ -1,0 +1,11 @@
+node_modules
+npm-debug.log
+dist
+.vscode
+.env
+build
+*.log
+.git
+.gitignore
+create-admin.ts
+updateRBT.ts
